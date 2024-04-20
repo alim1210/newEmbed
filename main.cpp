@@ -19,7 +19,7 @@ int getButtonPress() {
     return 0; // Return 0 if no button is pressed
 }
 
-
+//jhghjkgjkg
 int main() {
     lcd.init(LPH7366_1);
     MainMenu mainMenu(lcd); // Create an instance of MainMenu
